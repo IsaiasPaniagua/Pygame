@@ -20,6 +20,7 @@ pygame.mouse.set_visible(0)
 #coordenadas del cuadrado
 coord_x = 10
 coord_y = 10
+
 #Velocidad
 speed_x = 0
 speed_y = 0
